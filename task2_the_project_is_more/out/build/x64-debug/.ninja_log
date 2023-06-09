@@ -1,0 +1,15 @@
+# ninja log v5
+7	655	7080169610930789	build.ninja	8f7fccbc2e7214a1
+11	178	7080169610930789	build.ninja	8f7fccbc2e7214a1
+10	1486	7080169626111911	CMakeFiles/task2_the_project_is_more.dir/task3_class_hierarchy.cpp.obj	6ed4ec689c8abcd0
+17	1505	7080169626141875	CMakeFiles/task2_the_project_is_more.dir/figure.cpp.obj	140bc579a77f183
+52	1506	7080169626185431	CMakeFiles/task2_the_project_is_more.dir/equilateral_tri.cpp.obj	2cecba64953de1cd
+58	1507	7080169626161854	CMakeFiles/task2_the_project_is_more.dir/parallelogram.cpp.obj	930506c85d5da84d
+72	1508	7080169626171850	CMakeFiles/task2_the_project_is_more.dir/rhomb.cpp.obj	1094359e14025923
+37	1509	7080169626185431	CMakeFiles/task2_the_project_is_more.dir/right_tri.cpp.obj	c03476e3ce9dd4b8
+31	1510	7080169626185431	CMakeFiles/task2_the_project_is_more.dir/quadrilateral.cpp.obj	fd31a2e40bb97c8d
+64	1511	7080169626151871	CMakeFiles/task2_the_project_is_more.dir/rectangle.cpp.obj	3e1df73f59ea2f2
+45	1515	7080169626352509	CMakeFiles/task2_the_project_is_more.dir/isosceles_tri.cpp.obj	db1e17656ff006c2
+25	1517	7080169626185431	CMakeFiles/task2_the_project_is_more.dir/triangle.cpp.obj	30454c524dfe361f
+1486	1912	7080169630457173	CMakeFiles/task2_the_project_is_more.dir/quadrate.cpp.obj	e11fe37dfe863111
+1913	2577	7080169636051699	task2_the_project_is_more.exe	863f1f36085b4d05

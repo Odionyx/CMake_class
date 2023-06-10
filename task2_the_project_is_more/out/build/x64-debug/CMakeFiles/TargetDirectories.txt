@@ -1,3 +1,0 @@
-D:/CMake_class/task2_the_project_is_more/out/build/x64-debug/CMakeFiles/task2_the_project_is_more.dir
-D:/CMake_class/task2_the_project_is_more/out/build/x64-debug/CMakeFiles/edit_cache.dir
-D:/CMake_class/task2_the_project_is_more/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
